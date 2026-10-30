@@ -18,6 +18,7 @@ Meet the team:
 - Louise Fauchier (Département de langues et littératures classiques – Institut PaTHs)
 - Laurent Houssiau (Département de physique – Institut NISM)
 - Alexandre Mayer (Département de physique – Instituts NISM et naXys)
+- Marine Appart (Département de physique – Instituts NISM et PaTHs)
 - Giulia Morabito (Département de physique - Instituts NISM et PaTHs)
 - Nicolas Ruffini-Ronzani (Département d’histoire – Instituts PaTHs)
 - Nicolas Gros (Département de Physique – Instituts NISM et PaTHs)
